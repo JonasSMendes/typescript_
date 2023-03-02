@@ -1,0 +1,1 @@
+ let idade: number = 20
