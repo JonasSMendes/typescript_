@@ -268,6 +268,7 @@ removerTela( document.querySelector('teste'), );
  });
 
 */
+/*
 var nome:string  = 'jonas'
 
 function somar(n1:number, n2:number):number{
@@ -277,3 +278,6 @@ function somar(n1:number, n2:number):number{
 }
 
 somar(12, 34)
+
+*/
+
